@@ -1,2 +1,2 @@
 # Repository1
-My first repository
+This repository will have misc. projects, code, etc. 
